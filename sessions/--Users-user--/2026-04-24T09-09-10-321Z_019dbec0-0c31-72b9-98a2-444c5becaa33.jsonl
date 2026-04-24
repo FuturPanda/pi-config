@@ -1,0 +1,5 @@
+{"type":"session","version":3,"id":"019dbec0-0c31-72b9-98a2-444c5becaa33","timestamp":"2026-04-24T09:09:10.321Z","cwd":"/Users/user"}
+{"type":"model_change","id":"8723fd66","parentId":null,"timestamp":"2026-04-24T09:09:11.183Z","provider":"github-copilot","modelId":"claude-sonnet-4.6"}
+{"type":"thinking_level_change","id":"fdd4f0bb","parentId":"8723fd66","timestamp":"2026-04-24T09:09:11.183Z","thinkingLevel":"medium"}
+{"type":"message","id":"68f1e510","parentId":"fdd4f0bb","timestamp":"2026-04-24T09:09:11.322Z","message":{"role":"user","content":[{"type":"text","text":"sessions"}],"timestamp":1777021751320}}
+{"type":"message","id":"2a6e1b22","parentId":"68f1e510","timestamp":"2026-04-24T09:09:13.866Z","message":{"role":"assistant","content":[],"api":"anthropic-messages","provider":"github-copilot","model":"claude-sonnet-4.6","usage":{"input":0,"output":0,"cacheRead":0,"cacheWrite":0,"totalTokens":0,"cost":{"input":0,"output":0,"cacheRead":0,"cacheWrite":0,"total":0}},"stopReason":"aborted","timestamp":1777021751344,"errorMessage":"Operation aborted"}}

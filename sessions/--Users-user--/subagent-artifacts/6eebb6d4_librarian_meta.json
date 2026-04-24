@@ -1,0 +1,38 @@
+{
+  "runId": "6eebb6d4",
+  "agent": "librarian",
+  "task": "Research how to create a good skill for a coding agent system called \"pi\". A skill is a markdown file that provides specialized instructions to an AI agent. Research: what makes a good agent skill/system prompt, best practices for writing agent instructions, how to structure agent skills for clarity and effectiveness, what sections/components a skill file should have, and how to guide an agent through complex multi-step workflows. Look at the pi skill documentation at /opt/homebrew/lib/node_modules/@mariozechner/pi-coding-agent/docs/skills.md and any existing skill files in /opt/homebrew/lib/node_modules/pi-web-access/skills/ and /opt/homebrew/lib/node_modules/pi-subagents/skills/ as concrete examples. Also research general best practices for writing LLM system prompts and agent instructions from the web.\n\n---\n**Output:** Write your findings to: /Users/user/research.md",
+  "exitCode": 1,
+  "usage": {
+    "input": 0,
+    "output": 0,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "cost": 0,
+    "turns": 0
+  },
+  "model": "copilot/claude-sonnet-4-5:high",
+  "attemptedModels": [
+    "copilot/claude-sonnet-4-5"
+  ],
+  "modelAttempts": [
+    {
+      "model": "copilot/claude-sonnet-4-5",
+      "success": false,
+      "exitCode": 1,
+      "error": "Error: Model \"copilot/claude-sonnet-4-5:high\" not found. Use --list-models to see available models.",
+      "usage": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "cost": 0,
+        "turns": 0
+      }
+    }
+  ],
+  "durationMs": 1514,
+  "toolCount": 0,
+  "error": "Error: Model \"copilot/claude-sonnet-4-5:high\" not found. Use --list-models to see available models.",
+  "timestamp": 1776973360704
+}

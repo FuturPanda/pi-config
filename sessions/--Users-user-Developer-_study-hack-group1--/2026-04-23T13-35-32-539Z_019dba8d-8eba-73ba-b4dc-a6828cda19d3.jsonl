@@ -1,0 +1,5 @@
+{"type":"session","version":3,"id":"019dba8d-8eba-73ba-b4dc-a6828cda19d3","timestamp":"2026-04-23T13:35:32.539Z","cwd":"/Users/user/Developer/_study/hack-group1"}
+{"type":"thinking_level_change","id":"a0c30c71","parentId":null,"timestamp":"2026-04-23T13:35:32.545Z","thinkingLevel":"off"}
+{"type":"model_change","id":"0e2682d6","parentId":"a0c30c71","timestamp":"2026-04-23T13:37:36.543Z","provider":"github-copilot","modelId":"gpt-4o"}
+{"type":"message","id":"a88cde10","parentId":"0e2682d6","timestamp":"2026-04-23T13:38:39.765Z","message":{"role":"user","content":[{"type":"text","text":"q"}],"timestamp":1776951519754}}
+{"type":"message","id":"3cbf768d","parentId":"a88cde10","timestamp":"2026-04-23T13:38:40.649Z","message":{"role":"assistant","content":[],"api":"openai-completions","provider":"github-copilot","model":"gpt-4o","usage":{"input":0,"output":0,"cacheRead":0,"cacheWrite":0,"totalTokens":0,"cost":{"input":0,"output":0,"cacheRead":0,"cacheWrite":0,"total":0}},"stopReason":"aborted","timestamp":1776951519817,"errorMessage":"Operation aborted"}}

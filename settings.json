@@ -1,0 +1,57 @@
+{
+  "lastChangelogVersion": "0.70.0",
+  "defaultProvider": "opencode-go",
+  "defaultModel": "glm-5.1",
+  "defaultThinkingLevel": "medium",
+  "packages": [
+    "npm:pi-prompt-template-model",
+    "npm:@the-forge-flow/security-harness-pi",
+    "npm:pi-subagents",
+    "npm:pi-mcp-adapter",
+    "npm:pi-web-access"
+  ],
+  "subagents": {
+    "agentOverrides": {
+      "reviewer": {
+        "disabled": true
+      },
+      "scout": {
+        "disabled": true
+      },
+      "planner": {
+        "disabled": true
+      },
+      "worker": {
+        "disabled": true
+      },
+      "context-builder": {
+        "disabled": true
+      },
+      "researcher": {
+        "disabled": true
+      },
+      "delegate": {
+        "disabled": true
+      },
+      "oracle": {
+        "disabled": true
+      },
+      "oracle-executor": {
+        "disabled": true
+      }
+    }
+  },
+  "enabledModels": [
+    "opencode-go/glm-5",
+    "opencode-go/glm-5.1",
+    "opencode-go/kimi-k2.6",
+    "opencode-go/mimo-v2-omni",
+    "opencode-go/mimo-v2.5-pro",
+    "opencode-go/minimax-m2.7",
+    "opencode-go/qwen3.6-plus",
+    "zai/glm-4.5-flash",
+    "zai/glm-5.1",
+    "github-copilot/gpt-4o",
+    "github-copilot/gpt-5.3-codex"
+  ]
+}

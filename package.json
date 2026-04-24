@@ -1,0 +1,7 @@
+{
+  "name": "pi-config",
+  "description": "My personal pi config",
+  "keywords": ["pi-package"],
+  "author": "futurpanda",
+  "license": "MIT"
+}

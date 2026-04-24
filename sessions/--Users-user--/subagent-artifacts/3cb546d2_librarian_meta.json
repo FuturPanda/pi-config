@@ -1,0 +1,36 @@
+{
+  "runId": "3cb546d2",
+  "agent": "librarian",
+  "task": "tell me about a stared restaurant in marseille\n\n---\n**Output:** Write your findings to: /Users/user/research.md",
+  "exitCode": 0,
+  "usage": {
+    "input": 41321,
+    "output": 6708,
+    "cacheRead": 152576,
+    "cacheWrite": 0,
+    "cost": 0.030450544000000003,
+    "turns": 9
+  },
+  "model": "opencode-go/kimi-k2.6:high",
+  "attemptedModels": [
+    "opencode-go/kimi-k2.6"
+  ],
+  "modelAttempts": [
+    {
+      "model": "opencode-go/kimi-k2.6",
+      "success": true,
+      "exitCode": 0,
+      "usage": {
+        "input": 41321,
+        "output": 6708,
+        "cacheRead": 152576,
+        "cacheWrite": 0,
+        "cost": 0.030450544000000003,
+        "turns": 9
+      }
+    }
+  ],
+  "durationMs": 282142,
+  "toolCount": 10,
+  "timestamp": 1777037273428
+}
